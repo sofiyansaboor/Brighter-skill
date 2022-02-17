@@ -1,0 +1,9 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+brighter.techcraze.co.in	TRUE	/	FALSE	1999999999	wp_woocommerce_session_2a79f6e3c5d53560796f18f96bfa6439	03ec7786315e1abba7a7331ef34a453f%7C%7C1645278775%7C%7C1645275175%7C%7C612e1ec1fcc3e892d60e7b4edc23146d
+brighter.techcraze.co.in	TRUE	/	FALSE	1999999999	mailchimp_landing_site	https%3A%2F%2Fbrighter.techcraze.co.in%2Fwp-content%2Fplugins%2Fwp-pagebuilder%2Fassets%2Fcss%2Fimages%2Fui-icons_444444_256x240.png
+brighter.techcraze.co.in	TRUE	/	FALSE	1999999999	SameSite	Strict
+brighter.techcraze.co.in	TRUE	/	FALSE	1999999999	woocommerce_items_in_cart	1
+brighter.techcraze.co.in	TRUE	/	FALSE	1999999999	woocommerce_cart_hash	f7c5bf1687d628ce911ab888dadf9f3b
+brighter.techcraze.co.in	TRUE	/	FALSE	1999999999	wordpress_test_cookie	WP+Cookie+check
+

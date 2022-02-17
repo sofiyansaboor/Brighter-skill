@@ -1,0 +1,76 @@
+HTTrack3.49-2+htsswf+htsjava launched on Thu, 17 Feb 2022 19:22:26 at https://brighter.techcraze.co.in/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://brighter.techcraze.co.in/ -O1 "E:\MASOOD SIR BRIGHTERSKILL" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+19:23:41	Warning: 	Retry after error 500 (Internal Server Error) at link https://brighter.techcraze.co.in/wp-content/themes/docent/ (from https://brighter.techcraze.co.in/)
+19:23:42	Error: 	"Not Found" (404) at link https://brighter.techcraze.co.in/xmlrpc.php?rsd (from https://brighter.techcraze.co.in/)
+19:24:50	Error: 	"Not Found" (404) at link https://brighter.techcraze.co.in/wp-content/plugins/wp-pagebuilder/assets/css/images/ui-icons_444444_256x240.png (from https://brighter.techcraze.co.in/wp-content/plugins/wp-pagebuilder/assets/css/jquery-ui.css?ver=1.12.1)
+19:24:50	Error: 	"Not Found" (404) at link https://brighter.techcraze.co.in/wp-content/plugins/wp-pagebuilder/assets/css/images/ui-icons_555555_256x240.png (from https://brighter.techcraze.co.in/wp-content/plugins/wp-pagebuilder/assets/css/jquery-ui.css?ver=1.12.1)
+19:24:50	Error: 	"Not Found" (404) at link https://brighter.techcraze.co.in/wp-content/plugins/wp-pagebuilder/assets/css/images/ui-icons_ffffff_256x240.png (from https://brighter.techcraze.co.in/wp-content/plugins/wp-pagebuilder/assets/css/jquery-ui.css?ver=1.12.1)
+19:24:50	Error: 	"Not Found" (404) at link https://brighter.techcraze.co.in/wp-content/plugins/wp-pagebuilder/assets/css/images/ui-icons_777620_256x240.png (from https://brighter.techcraze.co.in/wp-content/plugins/wp-pagebuilder/assets/css/jquery-ui.css?ver=1.12.1)
+19:24:50	Error: 	"Not Found" (404) at link https://brighter.techcraze.co.in/wp-content/plugins/wp-pagebuilder/assets/css/images/ui-icons_cc0000_256x240.png (from https://brighter.techcraze.co.in/wp-content/plugins/wp-pagebuilder/assets/css/jquery-ui.css?ver=1.12.1)
+19:24:50	Error: 	"Not Found" (404) at link https://brighter.techcraze.co.in/wp-content/plugins/wp-pagebuilder/assets/css/images/ui-icons_777777_256x240.png (from https://brighter.techcraze.co.in/wp-content/plugins/wp-pagebuilder/assets/css/jquery-ui.css?ver=1.12.1)
+19:24:52	Error: 	"Not Found" (404) at link https://brighter.techcraze.co.in/wp-content/themes/docent/images/404-bg.png (from https://brighter.techcraze.co.in/wp-content/themes/docent/css/main.css?ver=all)
+19:24:52	Warning: 	Retry after error 500 (Internal Server Error) at link https://brighter.techcraze.co.in/wp-content/themes/docent/ (from https://brighter.techcraze.co.in/)
+19:24:54	Warning: 	Moved Permanently for https://brighter.techcraze.co.in/?p=13
+19:24:54	Warning: 	File has moved from https://brighter.techcraze.co.in/?p=13 to https://brighter.techcraze.co.in/dashboard/
+19:24:54	Warning: 	Moved Permanently for https://brighter.techcraze.co.in/?p=15
+19:24:54	Warning: 	File has moved from https://brighter.techcraze.co.in/?p=15 to https://brighter.techcraze.co.in/instructor-registration/
+19:24:54	Warning: 	Moved Permanently for https://brighter.techcraze.co.in/?p=14
+19:24:54	Warning: 	File has moved from https://brighter.techcraze.co.in/?p=14 to https://brighter.techcraze.co.in/student-registration/
+19:24:55	Warning: 	Moved Permanently for https://brighter.techcraze.co.in/?p=54
+19:24:55	Warning: 	File has moved from https://brighter.techcraze.co.in/?p=54 to https://brighter.techcraze.co.in/about-us/
+19:24:55	Warning: 	Moved Permanently for https://brighter.techcraze.co.in/?p=3
+19:24:55	Warning: 	File has moved from https://brighter.techcraze.co.in/?p=3 to https://brighter.techcraze.co.in/privacy-policy/
+19:24:55	Warning: 	Moved Permanently for https://brighter.techcraze.co.in/?p=68
+19:24:55	Warning: 	File has moved from https://brighter.techcraze.co.in/?p=68 to https://brighter.techcraze.co.in/refund-policy/
+19:24:55	Error: 	"Not Found" (404) at link https://brighter.techcraze.co.in/xmlrpc.php (from https://brighter.techcraze.co.in/refund-policy/)
+19:24:59	Warning: 	Moved Permanently for https://brighter.techcraze.co.in/?p=64
+19:24:59	Warning: 	File has moved from https://brighter.techcraze.co.in/?p=64 to https://brighter.techcraze.co.in/terms-of-service/
+19:24:59	Warning: 	Moved Permanently for https://brighter.techcraze.co.in/?p=213
+19:24:59	Warning: 	File has moved from https://brighter.techcraze.co.in/?p=213 to https://brighter.techcraze.co.in/courses/international-mba-the-business-humanities-science-and-ethics-university-usa-bhseu/
+19:24:59	Error: 	"Not Found" (404) at link https://brighter.techcraze.co.in/courses/international-mba-the-business-humanities-science-and-ethics-university-usa-bhseu/%22https:/brighter.techcraze.co.in/wp-content/uploads/2021/07/Network-1-1-300x251.png (from https://brighter.techcraze.co.in/courses/international-mba-the-business-humanities-science-and-ethics-university-usa-bhseu/)
+19:25:05	Warning: 	Moved Permanently for https://brighter.techcraze.co.in/?p=197
+19:25:05	Warning: 	File has moved from https://brighter.techcraze.co.in/?p=197 to https://brighter.techcraze.co.in/courses/mondly/
+19:25:05	Error: 	"Not Found" (404) at link https://brighter.techcraze.co.in/courses/mondly/%22https:/brighter.techcraze.co.in/wp-content/uploads/2021/06/mondly-300x112.png (from https://brighter.techcraze.co.in/courses/mondly/)
+19:25:05	Error: 	"Not Found" (404) at link https://brighter.techcraze.co.in/courses/mondly/%22https:/brighter.techcraze.co.in/wp-content/uploads/2021/06/mondly2-300x157.png (from https://brighter.techcraze.co.in/courses/mondly/)
+19:25:05	Warning: 	Moved Permanently for https://brighter.techcraze.co.in/?p=188
+19:25:05	Warning: 	File has moved from https://brighter.techcraze.co.in/?p=188 to https://brighter.techcraze.co.in/courses/giim-usa-courses/
+19:25:05	Error: 	"Not Found" (404) at link https://brighter.techcraze.co.in/courses/giim-usa-courses/%22https:/www.globaliim.com/400-aim%22img (from https://brighter.techcraze.co.in/courses/giim-usa-courses/)
+19:25:05	Error: 	"Not Found" (404) at link https://brighter.techcraze.co.in/courses/giim-usa-courses/%22https:/brighter.techcraze.co.in/wp-content/uploads/2021/06/giim-registration-300x200.png (from https://brighter.techcraze.co.in/courses/giim-usa-courses/)
+19:25:05	Error: 	"Not Found" (404) at link https://brighter.techcraze.co.in/courses/giim-usa-courses/%22https:/www.globaliim.com/400-aim%22https:/www.globaliim.com/400-aim/a!--more-- (from https://brighter.techcraze.co.in/courses/giim-usa-courses/)
+19:25:06	Warning: 	Moved Permanently for https://brighter.techcraze.co.in/?p=160
+19:25:06	Warning: 	File has moved from https://brighter.techcraze.co.in/?p=160 to https://brighter.techcraze.co.in/courses/ielts/
+19:25:06	Error: 	"Not Found" (404) at link https://brighter.techcraze.co.in/courses/ielts/%22https:/brighter.techcraze.co.in/wp-content/uploads/2021/05/ielts.png (from https://brighter.techcraze.co.in/courses/ielts/)
+19:25:06	Error: 	"Not Found" (404) at link https://brighter.techcraze.co.in/product/mba/feed/ (from https://brighter.techcraze.co.in/product/mba/)
+19:25:10	Warning: 	Moved Permanently for https://brighter.techcraze.co.in/?p=225
+19:25:10	Warning: 	File has moved from https://brighter.techcraze.co.in/?p=225 to https://brighter.techcraze.co.in/product/mba/
+19:25:25	Error: 	"Not Found" (404) at link https://brighter.techcraze.co.in/product/mondly-language-learning/feed/ (from https://brighter.techcraze.co.in/product/mondly-language-learning/)
+19:25:25	Warning: 	Moved Permanently for https://brighter.techcraze.co.in/?p=209
+19:25:25	Warning: 	File has moved from https://brighter.techcraze.co.in/?p=209 to https://brighter.techcraze.co.in/product/mondly-language-learning/
+19:25:27	Error: 	"Not Found" (404) at link https://brighter.techcraze.co.in/product/ielts-coaching/feed/ (from https://brighter.techcraze.co.in/product/ielts-coaching/)
+19:25:27	Warning: 	Moved Permanently for https://brighter.techcraze.co.in/?p=207
+19:25:27	Warning: 	File has moved from https://brighter.techcraze.co.in/?p=207 to https://brighter.techcraze.co.in/product/ielts-coaching/
+19:25:28	Error: 	"Internal Server Error" (500) after 2 retries at link https://brighter.techcraze.co.in/wp-content/themes/docent/ (from https://brighter.techcraze.co.in/)
+19:25:33	Warning: 	Moved Permanently for https://brighter.techcraze.co.in/?p=9
+19:25:33	Warning: 	File has moved from https://brighter.techcraze.co.in/?p=9 to https://brighter.techcraze.co.in/cart/
+19:25:33	Warning: 	Found for https://brighter.techcraze.co.in/cart/?remove_item=d1c38a09acc34845c6be3a127a5aacaf&_wpnonce=16f9cc268a
+19:25:33	Warning: 	File has moved from https://brighter.techcraze.co.in/cart/?remove_item=d1c38a09acc34845c6be3a127a5aacaf&_wpnonce=16f9cc268a to http://brighter.techcraze.co.in/cart/?removed_item=1
+19:25:33	Warning: 	Found for https://brighter.techcraze.co.in/cart/?remove_item=b1d10e7bafa4421218a51b1e1f1b0ba2&_wpnonce=16f9cc268a
+19:25:33	Warning: 	File has moved from https://brighter.techcraze.co.in/cart/?remove_item=b1d10e7bafa4421218a51b1e1f1b0ba2&_wpnonce=16f9cc268a to http://brighter.techcraze.co.in/cart/?removed_item=1
+19:25:33	Warning: 	Found for https://brighter.techcraze.co.in/cart/?remove_item=eae27d77ca20db309e056e3d2dcd7d69&_wpnonce=16f9cc268a
+19:25:33	Warning: 	File has moved from https://brighter.techcraze.co.in/cart/?remove_item=eae27d77ca20db309e056e3d2dcd7d69&_wpnonce=16f9cc268a to http://brighter.techcraze.co.in/cart/?removed_item=1
+19:25:33	Warning: 	Found for https://brighter.techcraze.co.in/cart/?remove_item=69adc1e107f7f7d035d7baf04342e1ca&_wpnonce=16f9cc268a
+19:25:33	Warning: 	File has moved from https://brighter.techcraze.co.in/cart/?remove_item=69adc1e107f7f7d035d7baf04342e1ca&_wpnonce=16f9cc268a to http://brighter.techcraze.co.in/cart/?removed_item=1
+19:25:33	Warning: 	Found for https://brighter.techcraze.co.in/checkout/
+19:25:33	Warning: 	File has moved from https://brighter.techcraze.co.in/checkout/ to https://brighter.techcraze.co.in/cart/
+19:25:35	Error: 	"Not Found" (404) at link https://brighter.techcraze.co.in/product/giim-usa-courses/feed/ (from https://brighter.techcraze.co.in/product/giim-usa-courses/)
+19:25:35	Warning: 	Moved Permanently for https://brighter.techcraze.co.in/?p=205
+19:25:35	Warning: 	File has moved from https://brighter.techcraze.co.in/?p=205 to https://brighter.techcraze.co.in/product/giim-usa-courses/
+
+HTTrack Website Copier/3.49-2 mirror complete in 3 minutes 16 seconds : 424 links scanned, 378 files written (26845508 bytes overall) [9670391 bytes received at 49338 bytes/sec], 26778896 bytes transferred using HTTP compression in 374 files, ratio 24%, 12.0 requests per connection
+(21 errors, 44 warnings, 0 messages)
